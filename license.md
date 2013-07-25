@@ -1,4 +1,4 @@
-walkner-xiconf application is licensed under the Non-Profit Open Software License
+walkner-xiprog application is licensed under the Non-Profit Open Software License
 version 3.0 (see 'The Non-Profit Open Software License version 3.0' or visit
 http://opensource.org/licenses/NPOSL-3.0).
 
