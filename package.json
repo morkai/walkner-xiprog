@@ -2,7 +2,7 @@
   "name": "walkner-xiprog",
   "version": "0.0.0",
   "description": "Overlay application for Xitanium Outdoor Driver Programmer.",
-  "license": "CC BY-NC 3.0",
+  "license": "NPOSL-3.0",
   "homepage": "https://github.com/morkai/walkner-xiprog",
   "author": {
     "name": "Łukasz Walukiewicz",

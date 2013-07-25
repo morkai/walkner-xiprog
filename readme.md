@@ -71,4 +71,4 @@ Application should be available on a port defined in `backend/server.js` file
 ## License
 
 This project is released under the
-[CC BY-NC 3.0](https://raw.github.com/morkai/walkner-xiprog/master/license.md).
+[NPOSL-3.0](https://raw.github.com/morkai/walkner-xiprog/master/license.md).
